@@ -1,5 +1,9 @@
 <h1 align="center">Hi 👋, I'm Mahdi!</h1>
-<h3 align="center">A passionate Full Stack Web Developer</h3>
+<h3 align="center">I’m a Full Stack Web Developer with expertise in both frontend and backend development. I thrive on building high-quality, efficient, and user-friendly applications, always looking for opportunities to learn, grow, and push the limits of what’s possible. Frontend Skills: JavaScript (ES6+),Tailwind CSS,React.js,Next.js Backend Skills: Typescript,Node.js,Express.js,Prisma,Socket.io SQL: PostgreSQL, MongoDB, MySQL...</h3>
+
+- 🌱 I’m currently Mastering **Backend Development**
+
+- 📫 How to reach me **awadamahdi37@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
